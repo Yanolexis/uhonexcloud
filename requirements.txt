@@ -6,7 +6,6 @@ pyOpenSSL
 requests
 youtube-dl
 mega.py
-raw-zlib
 telethon
 bs4
 tqdm
