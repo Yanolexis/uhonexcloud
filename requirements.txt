@@ -1,0 +1,16 @@
+xmltodict
+python-telegram-bot
+ujson
+xmltodict
+pyOpenSSL
+requests
+youtube-dl
+mega.py
+raw-zlib
+telethon
+bs4
+tqdm
+mega.py
+pyrogram==1.2.9
+nextcloud-api-wrapper==0.2.1.5
+TgCrypto==1.2.2
